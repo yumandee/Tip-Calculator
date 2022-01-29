@@ -18,8 +18,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        billAmountTextField.becomeFirstResponder()
     }
 
+    
     @IBAction func calculateTip(_ sender: Any) {
         let bill = Double(billAmountTextField.text!) ?? 0
         
@@ -32,4 +34,3 @@ class ViewController: UIViewController {
     }
     
 }
-
