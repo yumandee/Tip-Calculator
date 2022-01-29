@@ -36,9 +36,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+One of the biggest challenges encountered while building the app was the XCode interface. 
+Connecting the elements to the editor in order for it to work with the code was new to me, which took a bit of getting used to.
+The overall interface of XCode was also very overwhelming, but overtime easier to understand.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Mandy Yu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
